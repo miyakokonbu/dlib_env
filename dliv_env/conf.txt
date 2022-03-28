@@ -1,0 +1,3 @@
+IMAGENAME=dlib_env
+IMAGETAG=:dlib
+CONTAINERNAME=dlib_python
